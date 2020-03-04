@@ -1,4 +1,4 @@
-require './fizzbuzz'
+require './lib/fizzbuzz'
 
 describe 'fizzbuzz' do
     it 'says fizz for multiple of 3' do
